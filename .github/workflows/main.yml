@@ -7,7 +7,7 @@ on:
   schedule:
     - cron: "0 2 * * *"
 env:
-  ID_DOCKER: "choco1992"
+  ID_DOCKER: "benjcherpas"
   IMAGE_NAME: "cloudapp"
   IMAGE_TAG: "latest"
   APP_CONTAINER_PORT: "80"
